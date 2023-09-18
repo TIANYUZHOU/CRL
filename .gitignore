@@ -1,1 +1,4 @@
 datasets/bert-base-uncased
+sample_data
+
+*.pyc
